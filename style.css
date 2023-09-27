@@ -1,0 +1,42 @@
+
+.header {
+    height: 65px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    align-items: normal;
+    list-style: none;
+    gap: 24px;
+}
+
+.first {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 400px;
+}
+
+.first-section {
+    display: flex;
+    justify-content: space-around;
+    gap: 64px;
+    align-items: center;
+    height: 500px;
+    background-color: #1F2937;
+}
+
+button {
+    width: 100px;
+}
+
+img {
+    width: 650px;
+}

@@ -78,6 +78,12 @@ button {
   padding-bottom: 18px;
 }
 
+.title {
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: center;
+}
+
 .thumbs {
   display: flex;
   justify-content: center;

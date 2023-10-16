@@ -5,6 +5,11 @@ body {
   /* flex-wrap: wrap; */
 }
 
+h1 {
+  font-family: 'Bebas Neue';
+  font-size: 52px;
+}
+
 .header {
   height: auto;
   background-color: #1f2937;
